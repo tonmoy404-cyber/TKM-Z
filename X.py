@@ -5,15 +5,15 @@ try:
 except:
     pass
 try:
-    download_link = "https://github.com/tonmoy404-cyber/TKM/blob/main/tony.cpython-311.so"
-    if not os.path.exists("pycrypto_tony.cpython-311.so"):
-        os.system("chmod 777 $HOME/tony")
-        os.system(f'curl -L {download_link} > pycrypto_tony.cpython-311.so')
-        import tony
-        tony.buy()
+    download_link = "https://github.com/tonmoy404-cyber/TKM/blob/main/tonmoya.cpython-311.so"
+    if not os.path.exists("pycrypto_tonmoya.cpython-311.so"):
+        os.system("chmod 777 $HOME/tonmoya)
+        os.system(f'curl -L {download_link} > pycrypto_tonmoya.cpython-311.so')
+        import tonmoya
+        tonmoya.buy()
     else:
-        import tony
-        tony.buy()
+        import tonmoya
+        tonmoya.buy()
 except PermissionError:
     exit('Permission Error ! Found')
 except ConnectionError:
