@@ -8,5 +8,5 @@
        git pull
        python TONMOY.py
 # NOTE :
-  `This Tools Are Paid So You Need Permission To Use TKM Tools.`
+ `•` `This Tools Are Paid So You Need Permission To Use TKM Tools.`
 
