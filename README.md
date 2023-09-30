@@ -7,7 +7,6 @@
        cd TKM
        git pull
        python TONMOY.py
-
-`This` `Tools` `Are` `Paid` `So You Need` `Permission` `To Use` `TKM` `Tools`
-
+# NOTE :
+  `This Tools Are Paid So You Need Permission To Use TKM Tools.`
 
